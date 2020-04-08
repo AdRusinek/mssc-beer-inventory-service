@@ -2,7 +2,7 @@ package com.rusinek.msscbeerinventoryservice.web.controllers;
 
 import com.rusinek.msscbeerinventoryservice.repositories.BeerInventoryRepository;
 import com.rusinek.msscbeerinventoryservice.web.mappers.BeerInventoryMapper;
-import com.rusinek.msscbeerinventoryservice.web.model.BeerInventoryDto;
+import com.rusinek.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
