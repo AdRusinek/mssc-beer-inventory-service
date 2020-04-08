@@ -1,6 +1,6 @@
 package com.rusinek.msscbeerinventoryservice.services;
 
-import com.rusinek.common.events.NewInventoryEvent;
+import com.rusinek.brewery.model.events.NewInventoryEvent;
 import com.rusinek.msscbeerinventoryservice.domain.BeerInventory;
 import com.rusinek.msscbeerinventoryservice.repositories.BeerInventoryRepository;
 import lombok.RequiredArgsConstructor;

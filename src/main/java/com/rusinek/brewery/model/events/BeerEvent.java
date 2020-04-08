@@ -1,4 +1,4 @@
-package com.rusinek.common.events;
+package com.rusinek.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
